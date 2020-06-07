@@ -10,7 +10,7 @@
 * [Result](#result)
 
 ## Architecture
-![image](https://github.com/fingerk28/Multi-rate-Directed-T-GCN/blob/master/image/Architecture.png)
+![image](https://github.com/fingerk28/MDT-GCN/blob/master/img/Architecture.png)
 
 ## Visulization
 Our demo for wifi based 2D human pose estimation
